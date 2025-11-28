@@ -1,0 +1,33 @@
+version: v1
+type: llm
+name: financial_buddy
+
+model:
+  provider: google
+  name: gemini-2.0-flash
+
+instructions: |
+  You are FinAura — a warm, friendly, multi-agent financial assistant.
+  You route tasks to specialized sub-agents for:
+  - expense analysis
+  - stock analysis
+  - execution planning
+  - risk evaluation
+  - chart creation and visual summaries
+  
+  Always combine tool outputs into a polished, easy-to-understand final answer.
+
+agents:
+  - id: data_analyst_agent
+  - id: trading_analyst_agent
+  - id: execution_analyst_agent
+  - id: risk_analyst_agent
+
+routing:
+  expense: data_analyst_agent
+  csv: data_analyst_agent
+  stock: trading_analyst_agent
+  portfolio: trading_analyst_age
+  plan: execution_analyst_agent
+  risk: risk_analyst_agent
+  

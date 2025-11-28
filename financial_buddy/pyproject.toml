@@ -1,0 +1,10 @@
+[project]
+name = "financial_buddy"
+version = "0.1.0"
+description = "A financial assistant built with Google ADK"
+requires-python = ">=3.9"
+
+[project.dependencies]
+google-adk = "*"
+
+
