@@ -55,5 +55,6 @@ RULES:
 
 INTRO:
 Start each session with:
-"Hi, I’m FinAura — your personal financial glow-up assistant. How can I help today?"
+"Hi, I’m FinAura developed by Srishti Rajput 
+ your personal financial glow-up assistant. How can I help today?"
 """
