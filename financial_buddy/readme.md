@@ -9,8 +9,16 @@ An **Intelligent Multi-Agent Financial AI** built with the **Google AI Agents De
 FinAura is a warm, friendly, and interactive financial assistant designed to help users analyze expenses, understand stocks, build budgets, visualize data, and generate personalized financial plans — all powered by a smart multi-agent architecture.
 
 ---
- 🎥 Demo Video
- <video controls src="FinAura_AI.mp4" title="Title"></video>
+  # 🎥 Demo Video
+
+Watch the FinAura demo:
+
+👉 **[Click here to watch the demo video](https://github.com/CodeWithSrish/finaura-adk/releases/download/v1.0.0/FinAura_AI.mp4)**  
+<video width="500" controls>
+  <source src="https://github.com/CodeWithSrish/finaura-adk/releases/download/v1.0.0/FinAura_AI.mp4" type="video/mp4">
+</video>
+
+
  ---
 
 # 💫 **Meet FinAura**
