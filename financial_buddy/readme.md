@@ -210,20 +210,16 @@ The developer (Srishti Rajput) is not responsible for financial losses.
 Here are useful references related to FinAura and the technology behind it:
 
 - **Kaggle Competition Page**  
-  🔗 https://www.kaggle.com/competitions *(replace with your actual link)*
+  🔗 https://www.kaggle.com/competitions/agents-intensive-capstone-project 
 
-- **Google AI Agents Development Kit (ADK) Documentation**  
-  🔗 https://ai.google.dev/agents
+- **Google AI Studio**  
+  🔗 https://aistudio.google.com/
 
 - **Google Vertex AI Agents Overview**  
-  🔗 https://cloud.google.com/vertex-ai/docs/agents
+  🔗 https://docs.cloud.google.com/agent-builder/agent-engine/overview
 
 - **Python Markdown Guide**  
   🔗 https://www.markdownguide.org/
-
-- **FinAura Demo Notebook (Kaggle)**  
-  🔗 *(Add your Kaggle Notebook link once uploaded)*
-
 
 If you enjoy this project, please ⭐ star the repo on GitHub!
 ---
